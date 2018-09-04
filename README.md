@@ -9,4 +9,4 @@ This requires pynput to work. To install it, type:
 into cmd with administrative permissions.
 
 ## Todo
-make system tray component or background component to avoid users closing it accidentally.
+Make system tray component or background component to avoid users closing it accidentally.
