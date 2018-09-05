@@ -18,11 +18,11 @@ Next do
 
 from your Python directory.
 
-##Use
+## Use
 
 Run either betterArrows or betterArrowsSystemTray and use f2 + arrow keys to better edit text.(assuming the program you're using does not already use f2)
 
-##Ending betterArrows
+## Ending betterArrows
 
 For now use task manager. Ill come up with something better soon.
 
